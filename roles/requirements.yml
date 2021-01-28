@@ -1,3 +1,4 @@
 ---
 - name: ansible-role-db2
   src: https://github.com/jirolin/ansible-role-db2
+  version: master
